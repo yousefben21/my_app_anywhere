@@ -20,7 +20,7 @@ It does not provide real-time data.
 
 This landing page showcases:
 
-Hero section with logo, app name, tagline, and a big green “Download APK” button (linking to /download/anywhere.apk).
+Hero section with logo, app name, tagline, and a big green “Download APK” button .
 
 - **Bilingual Support**: Switch between English and Arabic (RTL support)
 
@@ -37,7 +37,7 @@ Hero section with logo, app name, tagline, and a big green “Download APK” bu
 ## 🛠️ Technologies UsedSimple & Fast Design
 
 
-- **HTML5**: Semantic markupHow It Works section (3 steps with icons):
+- **HTML5**: Semantic markupHow It Works section :
 
 - **CSS3**: Modern styling with Flexbox and Grid
 
@@ -66,6 +66,7 @@ Users can switch languages using the toggle button in the top-right corner. Lang
 
 ```
 ⭐️ If you like this project, please give it a star on GitHub!
+
 
 
 
