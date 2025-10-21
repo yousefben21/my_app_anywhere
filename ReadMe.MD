@@ -8,7 +8,7 @@ A modern, responsive landing page for **AnyWhere**, an offline bus navigation ap
 
 Name: AnyWhere
 
-![AnyWhere Preview](images/logo.png)
+![AnyWhere Preview](https://anywheretransit.app)
 
 Tagline: “Your Offline Bus Companion for Oran”
 
@@ -72,3 +72,4 @@ Users can switch languages using the toggle button in the top-right corner. Lang
 
 ```
 ⭐️ If you like this project, please give it a star on GitHub!
+
