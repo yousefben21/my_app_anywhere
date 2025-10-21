@@ -1,0 +1,7 @@
+{
+  "latest_version": "2.0.1",
+  "version_name": "Test Update",
+  "changelog": ["Testing update checker"],
+  "download_url": "https://anywheretransit.app",
+  "force_update": true
+}
