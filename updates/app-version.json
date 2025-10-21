@@ -3,5 +3,5 @@
   "version_name": "Test Update",
   "changelog": ["Testing update checker new"],
   "download_url": "https://anywheretransit.app",
-  "force_update": false
+  "force_update": true
 }
