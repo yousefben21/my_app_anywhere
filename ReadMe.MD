@@ -1,10 +1,4 @@
-# AnyWhere - Landing Page
-
-I want you to build a modern, responsive one-page website for my Android app called AnyWhere.
-
-💡 App info:
-
-A modern, responsive landing page for **AnyWhere**, an offline bus navigation app for Oran, Algeria.
+# AnyWhere 
 
 Name: AnyWhere
 
@@ -72,5 +66,6 @@ Users can switch languages using the toggle button in the top-right corner. Lang
 
 ```
 ⭐️ If you like this project, please give it a star on GitHub!
+
 
 
