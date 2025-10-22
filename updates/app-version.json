@@ -1,5 +1,5 @@
 {
-  "latest_version": "1.0.0",
+  "latest_version": "1.0.1",
   "version_name": "Test Update",
   "changelog": ["Testing update checker new"],
   "download_url": "https://anywheretransit.app",
